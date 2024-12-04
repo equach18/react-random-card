@@ -1,0 +1,24 @@
+button {
+  background-color: rgba(79, 78, 78, 0.978);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: 1px;
+  margin: 10px 1px;
+  font-size: 15px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.Deck-container {
+  margin-top: 80px;
+}
+
+.Deck-container > img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
